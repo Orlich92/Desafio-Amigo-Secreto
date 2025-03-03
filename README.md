@@ -1,25 +1,26 @@
-# 🎁 Desafio de Amigo Secreto
+# Desafio de Amigo Secreto
 
-Um aplicativo simples para sortear um amigo secreto a partir de uma lista de nomes inseridos pelo usuário
-
----
-
-## 📌 Sobre o Projeto
-
-Este projeto permite que o usuário adicione nomes a uma lista e, com um clique, sorteie um amigo secreto aleatório.  
-O foco principal foi a implementação da lógica em **JavaScript**, utilizando **HTML** e **CSS** para a interface.
+Uma app para sortear aleatoriamente o nome de um amigo a partir de uma lista de nomes inseridos pelo usuário
 
 ---
 
-## 🚀 Funcionalidades
+## Sobre o Projeto
 
-- ➕ Adicionar nomes à lista de participantes  
-- 🎲 Sortear um amigo secreto aleatoriamente  
-- 🔄 Limpar a lista e recomeçar o sorteio  
+O Desafio do amigo secreto permite a usuário adicionar nomes a uma lista para posteriormente sortear eles aleatoriamente.  
+O propósito deste projeto é implemenatar os conceitos sobre lógica de programação em **JavaScript**, utilizando **HTML** e **CSS** para a interface.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Funcionalidades
+
+- Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+- Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+- Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+ -Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+
+---
+
+## Tecnologias Utilizadas
 
 - **JavaScript** - Implementação da lógica do sorteio  
 - **HTML** - Estrutura da aplicação  
@@ -31,7 +32,7 @@ O foco principal foi a implementação da lógica em **JavaScript**, utilizando 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/albvieiraa/amigo-secreto-challenge.git
+   git clone https://github.com/Orlich92/Desafio-Amigo-Secreto.git
 
 2. Abra o arquivo `index.html` no seu navegador web.
 
