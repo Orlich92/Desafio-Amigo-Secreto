@@ -1,4 +1,4 @@
-# 🎁 Sorteio de Amigo Secreto
+# 🎁 Desafio de Amigo Secreto
 
 Um aplicativo simples para sortear um amigo secreto a partir de uma lista de nomes inseridos pelo usuário
 
