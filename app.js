@@ -37,7 +37,7 @@ function atualizarLista() {
 
 // Função para sortear um amigo secreto
 function sortearAmigo() {
-    if (amigosInseridos.length === 0) {
+    if (amigosInseridos.length === ) {
         alert('Adicione pelo menos um amigo para realizar o sorteio!');
         return;
     }
