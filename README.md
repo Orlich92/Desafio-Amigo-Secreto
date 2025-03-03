@@ -28,7 +28,7 @@ O propósito deste projeto é implemenatar os conceitos sobre lógica de program
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone o repositório:
    ```bash
@@ -36,9 +36,8 @@ O propósito deste projeto é implemenatar os conceitos sobre lógica de program
 
 2. Abra o arquivo `index.html` no seu navegador web.
 
-## 🤝 Como Contribuir
+## Como Contribuir
 - Faça um fork do projeto
 - Implemente melhorias ou novas funcionalidades
 - Envie um pull request
 
-### 💡 Contribuições são sempre bem-vindas!
